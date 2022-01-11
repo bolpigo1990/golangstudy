@@ -1,3 +1,3 @@
 package common
 
-var a int = 1
+var A int = 1

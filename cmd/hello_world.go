@@ -5,5 +5,5 @@ import (
     "common"
 )
 func main() {
-	fmt.Printf("Hello World! a=%d\n", common.a)
+	fmt.Printf("Hello World! a=%d\n", common.A)
 }
